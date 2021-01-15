@@ -1,0 +1,203 @@
+/* /////////////mail /////////////////////// */
+/* /////////////mail /////////////////////// */
+*{
+    margin: 0%;
+    padding: 0;
+    
+}
+.navbar-section, .main{
+    background-color:#FFFBF0;
+}
+
+
+.nav-bg{
+   background-color:#FFFBF0;
+   
+}
+
+
+.logo-img{
+    width:60%;
+    width:300px;
+}
+
+ 
+
+.nav-ul h5{
+    margin-right: 50px;
+    position: relative;
+    left:300px
+}
+ 
+@media(max-width:1000px){
+    .nav-ul h5{
+        margin-right: 50px;
+        position: relative;
+        left:0px;
+        
+    }
+
+}
+ 
+
+/* /////////////mail /////////////////////// */
+/* /////////////mail /////////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+/* /////////////////main hading/////////////////////// */
+/* /////////////////main hading/////////////////////// */
+/* /////////////////main hading/////////////////////// */
+
+.heading h1{
+    font-size:65px;
+    font-family:'Oswald';
+    color:#FABE4C;
+    text-transform: uppercase;
+    
+  
+     
+}
+.heading1{
+    color:#363958!important;
+}
+
+.heading p {
+    color:#363958!important;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+
+}
+
+
+.btn-style1{
+    background-color: #91AB2A;
+    padding: 20px;
+    color: white;
+    border-radius: 12px;
+    font-weight:500;
+     
+
+}.btn-style2{
+    background-color: #91AB2A;
+    padding: 20px;
+    color: white;
+    border-radius: 12px;
+    font-weight:500;
+    margin-left: -5px;
+     
+
+}
+ 
+/* /////////////////main hading/////////////////////// */
+/* /////////////////main hading/////////////////////// */
+
+
+
+/* /////////////////item section///////////////////// */
+/* /////////////////item section///////////////////// */
+
+ .womens-section{
+     background-color:#FFFFFF;
+     padding: 50px 0px;
+     color:#363958;
+     font-family:arial;
+ }
+
+ .womens-title{
+     color:#363958;
+     font-family:'Oswald';
+     font-size: 45px;
+     font-weight:bold;
+     text-transform: uppercase;
+ }
+.card-one{
+    border: 1px white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px 5px rgb(241, 241, 241);
+}
+ .card-img-items{
+     max-width: 330px;
+     max-height: 320px;
+     background-color: #F1F1F1;
+     padding:40px;
+     margin: 20px;
+     margin-left: 45px;
+     border-radius: 20px;
+      
+ }
+ .card-title{
+    color:#363958;
+    font-family:'Oswald';
+ }
+
+ .card-price{
+    color:#ffd209;
+    font-weight: bold;
+    position: relative;
+    display: inline
+
+ }
+ .btn-style1{
+    position:relative;
+    left:150px;
+ }
+
+
+.about{
+    font-family: arial;
+}
+
+.about-items h3{
+    font-weight: bold;
+    color:#4c4d5f;
+}
+ .about-items img{
+    max-width: 80px;
+ }
+
+
+ .lllll{
+     max-width:660px;
+     width: 100%;
+ }
+ .all-ala{
+     display: inline;
+     background-color: aliceblue;
+     box-shadow: 5px 5px 5px 5px gray;
+ }
+/* /////////////////item section///////////////////// */
+/* /////////////////item section///////////////////// */
+
+
+.myp-slider-items h1{
+    color:white;
+    font-family:'Oswald';
+    background-color: #A4BC46;
+    padding: 30px 0px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.my-slider-img{
+     
+    background-color: #FABE4C;
+    margin: 10px;
+}
+.footer img{
+    max-width: 300px;
+    max-height: 300px;
+    min-width: 300px;
+    min-height: 300px;
+    background-color:#FABE4C;
+}
+ 
