@@ -18,7 +18,7 @@
 
 .logo-img{
     width:60%;
-    width:300px;
+    width:250px;
 }
 
  
@@ -36,6 +36,9 @@
         left:0px;
         
     }
+
+
+
 
 }
  
@@ -84,6 +87,9 @@
     color: white;
     border-radius: 12px;
     font-weight:500;
+     display: inline-block;
+    overflow: hidden; 
+    margin-bottom: 10px;
      
 
 }.btn-style2{
@@ -93,6 +99,7 @@
     border-radius: 12px;
     font-weight:500;
     margin-left: -5px;
+    display: block;
      
 
 }
@@ -201,3 +208,14 @@
     background-color:#FABE4C;
 }
  
+
+
+@media(max-width:400px){
+    .btn-style1{
+      
+        margin-bottom: 10px;
+        margin-left:-100px;
+         
+    
+    }
+}
